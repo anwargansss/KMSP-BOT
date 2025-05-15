@@ -4,6 +4,6 @@ module.exports = {
   OWNER_NAME: 'anwargansss',
   OWNER_USERNAME: 'anwargansss',
   OWNER_ID: '5540619571',
-  MONGO_DB: 'mongodb+srv://anwargansss:pemalang123@cluster0.mongodb.net/SAEFUDIN%27S%20ORG?retryWrites=true&w=majority',
+  MONGO_DB: 'mongodb+srv://anwargansss:<pemalang123>@cluster0.bfl6cvn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
   DISCLAIMER_LINK: 'https://t.me/November2kLab/4'
 };
